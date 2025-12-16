@@ -1,2 +1,6 @@
 .idea/
 vendor/
+
+swiggy-expense/*.pdf
+swiggy-expense/*.eml
+swiggy-expense/*.csv
