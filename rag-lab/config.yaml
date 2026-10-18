@@ -1,0 +1,18 @@
+# One knob per run. Copy this file per experiment (configs/r01.yaml, r02.yaml...) or edit + rerun.
+note: "baseline"          # what you changed and why — shows up in results.csv
+
+# retrieval
+chunks: A_fixed_512_64     # file in data/chunks/
+embedder: nomic-embed-text
+use_prefix: true
+add_heading: false
+mode: dense                # dense | sparse | hybrid
+k: 5
+rerank: false
+
+# generation
+model: qwen3:8b
+prompt: v1
+temperature: 0.0
+num_ctx: 8192
+think: false
