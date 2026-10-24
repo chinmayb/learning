@@ -1,0 +1,10 @@
+{"id": "q01", "type": "lookup", "question": "TODO: What is the default TTL for ...?", "answer": "TODO", "source": "TODO.pdf", "pages": [12]}
+{"id": "q02", "type": "cli", "question": "TODO: Which command shows ...?", "answer": "TODO exact command", "source": "TODO.pdf", "pages": [40]}
+{"id": "q03", "type": "config_value", "question": "TODO: What port/limit/default is ...?", "answer": "TODO", "source": "TODO.docx", "pages": []}
+{"id": "q04", "type": "jargon", "question": "TODO: ask using an acronym/synonym NOT used in the doc", "answer": "TODO", "source": "TODO.pdf", "pages": [7]}
+{"id": "q05", "type": "table", "question": "TODO: answer lives in a parameter table", "answer": "TODO", "source": "TODO.pdf", "pages": [22]}
+{"id": "q06", "type": "multi", "question": "TODO: needs 2 sections/docs", "answer": "TODO", "source": "TODO.pdf", "pages": [5, 31]}
+{"id": "q07", "type": "version", "question": "TODO: answer differs between product versions", "answer": "TODO", "source": "TODO.pdf", "pages": [3]}
+{"id": "q08", "type": "none", "question": "TODO: plausible DNS question NOT answered in your docs", "answer": "not in documents", "source": "", "pages": []}
+{"id": "q09", "type": "ambiguous", "question": "TODO: e.g. How is the log used for recovery?  (DB WAL? OS journaling?)", "answer": "TODO", "source": "TODO.pdf", "pages": [], "domain": "databases"}
+{"id": "q10", "type": "detail", "question": "TODO: a specific number/example only in YOUR copy (beats training-data memory)", "answer": "TODO", "source": "TODO.pdf", "pages": []}
